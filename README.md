@@ -7,3 +7,4 @@ This is a register of programmers in the specialism group:
 * Nicholas Langley
 * Paul Sinnett
 * Qian Chen
+* Tim James
