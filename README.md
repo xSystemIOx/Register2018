@@ -2,3 +2,4 @@
 
 This is a register of programmers in the specialism group:
 * Paul Sinnett
+* Tim James
